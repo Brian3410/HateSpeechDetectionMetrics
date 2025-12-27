@@ -15,7 +15,7 @@ The `Model Metrics.xlsx` file presents comprehensive performance metrics for all
 
 ## Datasets Evaluated
 
-1. **Hate Corpus** - Multi-platform hate speech dataset
+1. **Hate Corpus** - Twitter hate speech dataset
 2. **Gab & Reddit** - Social media hate speech from Gab and Reddit platforms
 3. **Stormfront** - White supremacist forum discussions
 4. **Merged Dataset** - Combined dataset from all three sources
@@ -98,4 +98,5 @@ All models were trained using **Monash M3 High Performance Computing** cluster:
 - **Memory**: 128GB RAM
 - **CPUs**: 8 cores
 - **Training Time**: 3-24 hours per model (varies by architecture)
+
 - **Framework**: PyTorch with HuggingFace Transformers
